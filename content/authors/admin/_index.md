@@ -15,7 +15,7 @@ role: PhD Fellow
 # Organizations/Affiliations
 organizations:
 - name: Center for Computer Game Studies, IT University of Copenhagen
-  url: "https://www.itu.dk/"
+  url: "https://game.itu.dk/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I'm particularly interested in myth, monsters, spatiality and the representation and depiction of history and the past (both real and fictional histories) in digital games.
@@ -51,15 +51,15 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=dv4EhC0AAAAJ&hl=en
-- icon: academia
-  icon_pack: ai
-  link: https://itu.academia.edu/DomFord
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-5545-602X
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Dom_Ford
+- icon: academia
+  icon_pack: ai
+  link: https://itu.academia.edu/DomFord
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/gcushen
@@ -79,4 +79,4 @@ user_groups:
 - Visitors
 ---
 
- I'm a PhD Fellow at the IT University of Copenhagen studying myth and  the production of meaning in digital games. I also hold a BA and an MA  in English from the University of Exeter, focusing largely on digital  games and late medieval Arthurian romance, and I bring that literary and cultural analysis to digital games. I recently completed an MSc in  Games at the IT University of Copenhagen. I'm particularly interested in myth, monsters, spatiality and the representation and depiction of  history and the past (both real and fictional histories) in digital  games.
+I'm a PhD Fellow at the IT University of Copenhagen studying myth and  the production of meaning in digital games. I also hold a BA and an MA  in English from the University of Exeter, focusing largely on digital  games and late medieval Arthurian romance, and I bring that literary and cultural analysis to digital games. I recently completed an MSc in  Games at the IT University of Copenhagen. I'm particularly interested in myth, monsters, spatiality and the representation and depiction of  history and the past (both real and fictional histories) in digital  games.

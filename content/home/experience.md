@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "January 2006"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -18,19 +18,19 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "PhD Fellow"
+  company = "IT University of Copenhagen"
+  company_url = "https://www.itu.dk/"
+  location = "Copenhagen"
+  date_start = "2019-08-01"
+  date_end = "2022-07-31"
   description = """
   Responsibilities include:
-  
+
   * Analysing
   * Modelling
   * Deploying
-  """
+    """
 
 [[experience]]
   title = "Professor"
