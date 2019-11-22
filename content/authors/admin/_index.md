@@ -24,6 +24,10 @@ interests:
 - Games
 - Play
 - Myth
+- Monsters
+- Spatiality
+- Neomedievalism
+- Medieval Studies
 
 education:
   courses:
