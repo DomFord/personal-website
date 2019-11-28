@@ -1,5 +1,5 @@
 ---
-title: "Lost Futures: In the Presence of Long-Lost Civilisations in *The Legend of Zelda: Breath of the Wild*"
+title: "Lost Futures: In the Presence of Long-Lost Civilisations in The Legend of Zelda: Breath of the Wild"
 date: 2018-11-01
 publishDate: 2019-11-21T10:24:09.414327Z
 authors: ["Dom Ford"]
