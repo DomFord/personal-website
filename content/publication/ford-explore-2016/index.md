@@ -8,6 +8,6 @@ abstract: "*Civilization V* as one of the most successful and definitive works o
 featured: true
 publication: "*Game Studies*"
 tags: ["affect", "Civilisation V", "education", "empire", "history", "homogeny", "imperialism", "postcolonialism", "technological determinism", "videogames"]
-url: "http://gamestudies.org/1602/articles/ford"
+url: "gamestudies.org/1602/articles/ford"
 ---
 
