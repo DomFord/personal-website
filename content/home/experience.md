@@ -31,8 +31,8 @@ date_format = "January 2006"
   company = "IT University of Copenhagen"
   company_url = "https://www.itu.dk/"
   location = "Copenhagen"
-  date_start = "2019-01"
-  date_end = "2019-06"
+  date_start = "2019-01-15"
+  date_end = "2019-05-31"
   description = """Assisting on the 7.5 ECTS MSc Games class Play Design."""
 
 [[experience]]
@@ -40,8 +40,8 @@ date_format = "January 2006"
   company = "IT University of Copenhagen"
   company_url = "https://www.itu.dk/"
   location = "Copenhagen"
-  date_start = "2018-08"
-  date_end = "2018-12"
+  date_start = "2018-08-15"
+  date_end = "2018-12-31"
   description = """Assisting on the 7.5 ECTS MSc Games class Games and Culture."""
 
 +++
