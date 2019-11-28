@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
-subtitle = ""
+subtitle = "Academic and teaching positions"
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -19,26 +19,29 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "PhD Fellow"
+  company = "Center for Computer Game Studies, IT University of Copenhagen"
+  company_url = "https://game.itu.dk/"
+  location = "Copenhagen"
+  date_start = "2019-08-01"
+  date_end = ""
+  description = """"""
+
+[[experience]]
+  title = "Teaching Assistant"
   company = "IT University of Copenhagen"
   company_url = "https://www.itu.dk/"
   location = "Copenhagen"
-  date_start = "2019-08-01"
-  date_end = "2022-07-31"
-  description = """
-  Responsibilities include:
-
-  * Analysing
-  * Modelling
-  * Deploying
-    """
+  date_start = "2019-01"
+  date_end = "2019-06"
+  description = """Assisting on the 7.5 ECTS MSc Games class Play Design."""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Teaching Assistant"
+  company = "IT University of Copenhagen"
+  company_url = "https://www.itu.dk/"
+  location = "Copenhagen"
+  date_start = "2018-08"
+  date_end = "2018-12"
+  description = """Assisting on the 7.5 ECTS MSc Games class Games and Culture."""
 
 +++
