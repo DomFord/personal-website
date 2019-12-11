@@ -14,7 +14,7 @@ role: PhD Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Center for Computer Game Studies, IT University of Copenhagen
+- name: Center for Computer Games Research, IT University of Copenhagen
   url: "https://game.itu.dk/"
 
 # Short bio (displayed in user profile at end of posts)
