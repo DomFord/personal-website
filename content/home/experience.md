@@ -19,7 +19,7 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "PhD Fellow"
-  company = "Center for Computer Game Studies, IT University of Copenhagen"
+  company = "Center for Computer Games Research, IT University of Copenhagen"
   company_url = "https://game.itu.dk/"
   location = "Copenhagen"
   date_start = "2019-08-01"

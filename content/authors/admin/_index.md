@@ -31,6 +31,9 @@ interests:
 
 education:
   courses:
+  - course: PhD in Game Studies
+    institution: IT University of Copenhagen
+    year: 2022
   - course: MSc in Games
     institution: IT University of Copenhagen
     year: 2019
@@ -83,4 +86,4 @@ user_groups:
 - Visitors
 ---
 
-I'm a PhD Fellow at the IT University of Copenhagen studying myth and  the production of meaning in digital games. I also hold a BA and an MA  in English from the University of Exeter, focusing largely on digital  games and late medieval Arthurian romance, and I bring that literary and cultural analysis to digital games. I recently completed an MSc in  Games at the IT University of Copenhagen. I'm particularly interested in myth, monsters, spatiality and the representation and depiction of  history and the past (both real and fictional histories) in digital  games.
+I'm a PhD Fellow at the IT University of Copenhagen studying myth and the production of meaning in digital games. I also hold a BA and an MA in English from the University of Exeter, focusing largely on digital games and late medieval Arthurian romance, and I bring that literary and cultural analysis to digital games. I recently completed an MSc in Games at the IT University of Copenhagen. I'm particularly interested in myth, monsters, spatiality and the representation and depiction of history and the past (both real and fictional histories) in digital games.
