@@ -2,7 +2,7 @@
 
 With everyone and their mother writing games of the year or games of the decade lists at the moment, I’m well aware that the last thing people want is my opinion on the matter. But I write this more as an exercise for myself. And, to be fair, the end of a decade is a biggie.
 
-I want to explore which games have resonated most with me over the past ten years or so. In that, I hope I can also see some blind spots that I can look to rectify during the 20s. I am well aware that I am biased as a player and as a human. I might find that I have played a disappointing number of games made by or with marginalised people, or by people outside of my Anglosphere cultural environment.
+I want to explore which games have resonated most with me over the past ten years or so. In that, I hope I can also see some blind spots that I can look to rectify during the 20s. I am well aware that I am biased as a player and as a human. I might find that I have played a disappointingly low number of games made by or with marginalised people, or by people outside of my Anglosphere cultural environment.
 
 This list is an opportunity for me to reflect on the impact that games have had on me over a decade in which I have grown enormously. In 2010, I was around 16 years old. I was entering Sixth Form to study for my A-Levels. I was yet to know what I wanted to study at university, or which university I wanted to go to. (I did, however, know that I wanted to go to university.) To think that now, by the end of the 10s, I am writing this in my office in Copenhagen, researching videogames for a living and working towards a PhD, is mindboggling.
 
