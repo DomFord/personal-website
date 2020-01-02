@@ -7,9 +7,9 @@ summary: ""
 authors: [Dom Ford]
 tags: []
 categories: []
-date: 2020-01-01T12:48:14+01:00
-lastmod: 2020-01-01T12:48:14+01:00
-featured: false
+date: 2020-01-02T12:48:14+01:00
+lastmod: 2020-01-02T12:48:14+01:00
+featured: true
 draft: false
 
 # Featured image
@@ -40,8 +40,6 @@ Let’s see what I’ve played.
 
 ------
 
-
-
 ## *Rock Band 3* (Harmonix, 2010)
 
 The rhythm game genre never went away, but it certainly died a death in the 10s. The *Guitar Hero* and, later, *Rock Band* series exploded the rhythm game genre into almost every living room. Countless households were filled with the *tap tap tap* of plastic drum sets and the *click click click* of the strum bar. But the controllers needed for these games were bulky, loud and expensive, which perhaps contributed to the genre’s dip in popularity.
@@ -51,8 +49,6 @@ Nonetheless, these games bring back fond memories. Although I cut my teeth on *G
 *Rock Band 3* provided the perfect mixture of plenty of room for skill development, but forgiving enough that you could just feel like a rockstar whenever you picked the game up. For absolutely nailing that feeling, *Rock Band 3* has earned its spot as one of my games of the decade.
 
 ------
-
-
 
 ## *Dark Souls* (FromSoftware, 2011)
 
@@ -64,8 +60,6 @@ Eric Kain writing for *Forbes* says that the game’s story has an “archaeolog
 
 ------
 
-
-
 ## *Old School RuneScape* (Jagex, 2013)
 
 The most popular update Jagex ever made to RuneScape was, it seems, to remove over six years of updates. Despite the idea of a ‘2007-Scape’ being enormously popular, it is still a bold move for a company to make, to release a competitor to your own game that is simply an older version of the 'same' game. Not only did they risk cannibalising their own userbase—which could, in turn, lead to a loss of the critical mass that an MMORPG needs for both games—but it also seems to undermine the current game, known as *RuneScape 3* (Jagex, 2013), a bit.
@@ -75,8 +69,6 @@ Nevertheless, it paid off. *Old School* gave a powerful nostalgia hit to a gener
 Trying out interesting new models of design, such as requiring the addition of any new content or any change (that isn’t a bugfix) to be voted on with 75% approval by the playerbase, *Old School* has redefined the MMORPG genre without simply copying *World of Warcraft*. Its radical adherence to a specific 2007-era aesthetic and community-based ethic stands *Old School* apart. It’s helped it become much more than a quick nostalgia hit, and paved the way for other hugely popular ‘old school’ experiences, such as *World of Warcraft Classic* (Blizzard Entertainment, 2019).
 
 ------
-
-
 
 ## *Kenshi* (Lo-Fi Games, 2013)
 
@@ -88,8 +80,6 @@ The 2013 date is a little misleading. *Kenshi* was one of those many games in ea
 
 ------
 
-
-
 ## *Cities: Skylines* (Colossal Order, 2015)
 
 I’ll never forget the day I spent eight straight hours rebuilding from scratch my city’s railways. I wanted to make more efficient rail transport routes around the city as well as splitting passenger rail from freight rail, and intracity rail from intercity rail. It turned out to be a bigger task than I had anticipated, but I barely noticed the hours go by as I tuned each junction and corner to my liking.
@@ -99,8 +89,6 @@ I’ll never forget the day I spent eight straight hours rebuilding from scratch
 Moments of intense concentration, placing things *just* right, are interspersed with blissful periods of sitting back and just watching the city work. Immensely satisfying, gratifyingly creative and endlessly mesmerising, *Cities* has spent half the decade as one of my most successful tools for relaxation.
 
 ------
-
-
 
 ## *Dark Souls III* (FromSoftware, 2016)
 
@@ -112,8 +100,6 @@ The game’s boss fights are incredibly well made, too. While the usual onslaugh
 
 ------
 
-
-
 ## *Hellblade: Senua’s Sacrifice* (Ninja Theory, 2017)
 
 There are many valid criticisms of the way *Senua’s Sacrifice* handles mental health, but at least it tries wholeheartedly. Putting the titular character’s psychosis front and centre of both the game’s narrative and gameplay, *Senua’s Sacrifice* manages to make an experience that is both intensely personal and epic in scale, fighting gods and mythical creatures.
@@ -121,8 +107,6 @@ There are many valid criticisms of the way *Senua’s Sacrifice* handles mental 
 Perhaps the most notable element of the game are the voices in Senua’s head—the ‘Furies’—which accompany the player throughout their journey. These are extraordinarily well done. They make for an experience so intense that I had to take regular breaks every half hour or so. Few games have affected me like *Senua’s Sacrifice*. It’s an utterly beautiful game that will stick in my mind for many years to come.
 
 ------
-
-
 
 ## *The Legend of Zelda: Breath of the Wild* (Nintendo EPD, 2017)
 
@@ -132,7 +116,15 @@ Exploring Hyrule is just a joy in its own right. There’s always something new 
 
 ------
 
+## *Super Mario Odyssey* (Nintendo EPD, 2017)
 
+I only briefly played *Super Mario Galaxy* (Nintendo EAD Tokyo, 2007) and never managed to try *Galaxy 2* (Nintendo EAD Tokyo, 2010), so *Odyssey* was my first real return to 3D Mario since *Sunshine* (Nintendo EAD, 2002), which I absolutely adored.
+
+*Odyssey* oozes charm. From Mario’s movement to the new tricks you can do with Cappy, from the tight level design to the nostalgic throwbacks. Far too many times, this game left me with a stupid grin on my face. 
+
+There are some odd choices, for sure. Why, for example, New Donk City shows other humans who look nothing like Mario and the gang, leaving us to wonder what the hell kind of mutant Mario is, I will never know.  But it took Mario to fresh places while retaining its big-hearted, no holds barred joyfulness.
+
+------
 
 ## *Untitled Goose Game* (House House, 2019)
 
@@ -144,5 +136,15 @@ Perfect for the premise, the gameplay essentially functions as a stealth game wi
 
 ------
 
+## Reflections
 
+So that’s my list. And I surprised myself with some of the selections, as well as some of the exclusions.
+
+*League of Legends* (Riot Games, 2009), for example, dominated the early 10s for me. I racked up several thousands hours of playtime, and many of my friendships back in the UK today are based on long hours teaming up in *League*. But, released in late 2009, I excluded it. It does seem odd, however, and reflects the anachronism of singular publishing dates within games due to development via patches. *League* is entirely unrecognisable now from the 2009 iteration.
+
+Likewise, many games could easily have made the list but didn’t, for whatever reason. *Mount & Blade: Warband*  (TaleWorlds Entertainment, 2010), *Bastion* (Supergiant Games, 2011), *Portal 2* (Valve, 2011) *The Elder Scrolls V: Skyrim* (Bethesda, 2011), *Thomas Was Alone* (Bithell, 2012), *Grand Theft Auto V* (Rockstar North, 2013), *Subnautica* (Unknown Worlds Entertainment, 2015), *The Witness* (Thekla, 2016), *XCOM 2* (Firaxis Games, 2016), *Horizon Zero Dawn* (Guerilla Games, 2017), *What Remains of Edith Finch*, (Giant Sparrow, 2017), *Divinity: Original Sin II* (Larian Studios, 2017), *Frostpunk* (11 bit studios, 2018), *Super Smash Bros. Ultimate* (Bandai Namco Studios and Sora, 2018) and many, many more are all games I want to mention. 
+
+And, of course, I have not nearly played even all of the most well-known titles of the decade.
+
+Reflecting on my list, there is what I suspected: a tendency towards big, AAA, ‘gamer’-type games. In the 20s, I need to spend more time engaging with smaller developers and games on platforms like [itch.io](https://itch.io/). I also live in Copenhagen, a city with a thriving indie scene, and work in a university with a fantastic games programme. I’ve played some awesome games within this community, and I’m looking forward to continuing with that over the years.
 
