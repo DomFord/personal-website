@@ -34,7 +34,7 @@ With everyone and their mother writing games of the year or games of the decade 
 
 I want to explore which games have resonated most with me over the past ten years or so. In that, I hope I can also see some blind spots that I can look to rectify during the 20s. I am well aware that I am biased as a player and as a human. I might find that I have played a disappointingly low number of games made by or with marginalised people, or by people outside of my Anglosphere cultural environment.
 
-This list is an opportunity for me to reflect on the impact that games have had on me over a decade in which I have grown enormously. In 2010, I was around 16 years old. I was entering Sixth Form to study for my A-Levels. I was yet to know what I wanted to study at university, or which university I wanted to go to. (I did, however, know that I wanted to go to university.) To think that now, by the end of the 10s, I began writing this in my office in Copenhagen (I'm now home for Christmas), researching videogames for a living and working towards a PhD, is mindboggling.
+This list is an opportunity for me to reflect on the impact that games have had on me over a decade in which I have grown enormously. In 2010, I was around 16 years old. I was entering Sixth Form to study for my A-Levels. I was yet to know what I wanted to study at university, or which university I wanted to go to. (I did, however, know that I wanted to go to university.) To think that now, by the end of the 10s, I wrote this in my office in Copenhagen, researching videogames for a living and working towards a PhD, is mindboggling.
 
 Let’s see what I’ve played. 
 
@@ -44,7 +44,9 @@ Let’s see what I’ve played.
 
 ### Harmonix, 2010
 
-The rhythm game genre never went away, but it certainly died a death in the 10s. The *Guitar Hero* and, later, *Rock Band* series exploded the rhythm game genre into almost every living room. Countless households were filled with the *tap tap tap* of plastic drum sets and the *click click click* of the strum bar. The controllers needed for these games were bulky, loud and expensive, which perhaps contributed to the genre’s dip in popularity.
+![img](https://psmedia.playstation.com/is/image/psmedia/RockBand3_sc002?$MediaCarousel_Original$)
+
+The rhythm game genre never went away, but it certainly died a death in the 10s. The *Guitar Hero* and, later, *Rock Band* series exploded the rhythm game genre into almost every living room. Countless households were filled with the *tap tap tap* of plastic drum sets and the *click click click* of the strum bar. But the controllers needed for these games were bulky, loud and expensive, which perhaps contributed to the genre’s dip in popularity.
 
 Nonetheless, these games bring back fond memories. Although I cut my teeth on *Guitar Hero III* (Neversoft, 2007), it was the *Rock Band* series that really swept me up, and in particular the third instalment. People say that these games aren’t useful for learning instruments, and that’s mostly true. But as a drummer myself, endless hours on the plastic set helped develop my skills on top of my lessons. The year I was really into *Rock Band 3* was probably the year my drumming has improved the most dramatically.
 
@@ -80,7 +82,11 @@ Trying out interesting new models of design, such as requiring the addition of a
 
 ### Lo-Fi Games, 2013
 
-Lorem ipsum.
+The 2013 date is a little misleading. *Kenshi* was one of those many games in early access for what felt like forever. And I’m sure it felt like that for Chris Hunt, who began development of the game solo in the mid-to-late 2000s. In 2013, Hunt got the money together to hire a small team and the game went into Steam’s highly variable early access programme, which the game didn’t leave again until December 2018.
+
+*Kenshi* is janky, cumbersome, demanding, obtuse and baffling. It’s a game with a scope suited only to the biggest AAA developers. And often it shows. But it’s also a game that couldn’t have been made by a big developer.
+
+*Kenshi* refuses to adhere to established genres or conventions, blending elements of real-time strategy, city-builder, survival, roleplaying game, and open world into a bamboozling, gigantic mess. And for that, it’s brilliant. For all its flaws, I’ve simply never played a game like it.
 
 
 
@@ -90,9 +96,21 @@ Lorem ipsum.
 
 I’ll never forget the day I spent eight straight hours rebuilding from scratch my city’s railways. I wanted to make more efficient rail transport routes around the city as well as splitting passenger rail from freight rail, and intracity rail from intercity rail. It turned out to be a bigger task than I had anticipated, but I barely noticed the hours go by as I tuned each junction and corner to my liking.
 
-*Cities: Skylines* is easily the pinnacle of the citybuilder, citysim genre, having dethroned *Sim City*. It has its issues, for sure. The lack of mixed-use zoning and the overreliance on car-based travel are disappointing in particular. But, working around that—and with the help of a few (hundred) mods—*Cities* offers an unparalleled canvas for painting a city. 
+*Cities: Skylines* is easily the pinnacle of the city-builder, citysim genre, having dethroned *Sim City*. It has its issues, for sure. The lack of mixed-use zoning and the overreliance on car-based travel are disappointing in particular. But, working around that—and with the help of a few (hundred) mods—*Cities* offers an unparalleled canvas for painting a city. 
 
 Moments of intense concentration, placing things *just* right, are interspersed with blissful periods of sitting back and just watching the city work. Immensely satisfying, gratifyingly creative and endlessly mesmerising, *Cities* has spent half the decade as one of my most successful tools for relaxation.
+
+
+
+## *Dark Souls III*
+
+### FromSoftware, 2016
+
+A magnificent sendoff for the *Dark Souls* series. While not quite as tight and resonant as the first, *Dark Souls III* makes up for it in even tighter combat mechanics—the best combat system of any game of this kind, ever—and stunning environments. From Irithyll of the Boreal Valley to The Ringed City, the third instalment of the series has some of the most memorable locations.
+
+The game’s boss fights are incredibly well made, too. While the usual onslaught can be found, other bosses like the Dancer of the Boreal Valley and High Lord Wolnir show a willingness to slow things down or try something different. 
+
+*Dark Souls III* doesn’t quite capture the magic of the first game, but it does take everything great about *Dark Souls* and *Dark Souls II* (FromSoftware, 2014) and turn it into the most polished experience of the three while retaining the enigmatic, immersive worldbuilding.
 
 
 
@@ -100,7 +118,9 @@ Moments of intense concentration, placing things *just* right, are interspersed 
 
 ### Ninja Theory, 2017
 
-Lorem ipsum.
+There are many valid criticisms of the way *Senua’s Sacrifice* handles mental health, but at least it tries wholeheartedly. Putting the titular character’s psychosis front and centre of both the game’s narrative and gameplay, *Senua’s Sacrifice* manages to make an experience that is both intensely personal and epic in scale, fighting gods and mythical creatures.
+
+Perhaps the most notable element of the game are the voices in Senua’s head—the ‘Furies’—which accompany the player throughout their journey. These are extraordinarily well done. They make for an experience so intense that I had to take regular breaks every half hour or so. Few games have affected me like *Senua’s Sacrifice*. It’s an utterly beautiful game that will stick in my mind for many years to come.
 
 
 
@@ -108,7 +128,11 @@ Lorem ipsum.
 
 ### Nintendo EPD, 2017
 
-Lorem ipsum.
+![Breath of the Wild](\\fs4.itu.local\redirection\dofo\Documents\GitHub\personal-website\content\post\games-of-the-decade\images\Breath of the Wild.jpg)
+
+The story isn’t the best that *The Legend of Zelda* has ever produced. The enemy variety is also a little lacking. And many would have liked to see more expansive dungeons. But *Breath of the Wild* has the most *alive* gameworld of any *Zelda* game. And certainly the most freedom.
+
+Exploring Hyrule is just a joy in its own right. There’s always something new and interesting to head towards on the horizon, and a hundred little detours to take along the way. And it’s full of beautiful little sequences, like the ‘From the Ground Up’ sidequest. And it feels like one of the few openworld games that lets you explore a genuine wilderness. Above all, *Breath of the Wild* has heart. 
 
 
 
@@ -118,11 +142,7 @@ Lorem ipsum.
 
 Simply put, no game has ever made me laugh as much as *Goose Game*. A relatively short game, it’s one with a unique combination of playful freedom, humour and surprisingly solid gameplay.
 
-“It’s a lovely morning in the village, and you are a horrible goose.” The single most engaging strapline for a game ever? It immediately sold the game to me, certainly. But if *Goose Game* was simply a very funny premise and nothing more, it would’ve had its brief moment and then been forgotten. Instead, this small, short game
-
-[recently surpassed a million sales, according to the game’s publisher,]: https://twitter.com/cabel/status/1211754892605308928	"recently surpassed a million sales, according to the game’s publisher,"
-
-and honked its way into our hearts.
+“It’s a lovely morning in the village, and you are a horrible goose.” The single most engaging strapline for a game ever? It immediately sold the game to me, certainly. But if *Goose Game* was simply a very funny premise and nothing more, it would’ve had its brief moment and then been forgotten. Instead, this small, short game [recently surpassed a million sales](https://twitter.com/cabel/status/1211754892605308928), according to the game’s publisher, and honked its way into our hearts.
 
 Perfect for the premise, the gameplay essentially functions as a stealth game with no consequences. Sneaking around and messing with things and people, but without the violence and without having to restart a level if you get caught. When your scheme falls flat, you simply honk cathartically, run away a little and try again. *Goose Game* is simply a game of utter joy.
 
