@@ -5,7 +5,7 @@ title: "My Games of the Decade"
 subtitle: ""
 summary: ""
 authors: [Dom Ford]
-tags: []
+tags: [games of the decade]
 categories: []
 date: 2020-01-02T12:48:14+01:00
 lastmod: 2020-01-02T12:48:14+01:00
