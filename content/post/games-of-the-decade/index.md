@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Games of the Decade"
+title: "My Games of the Decade"
 subtitle: ""
 summary: ""
 authors: [Dom Ford]
@@ -28,8 +28,6 @@ image:
 projects: []
 ---
 
-# My Games of the Decade
-
 With everyone and their mother writing games of the year or games of the decade lists at the moment, I’m well aware that the last thing people want is my opinion on the matter. But I write this more as an exercise for myself. And, to be fair, the end of a decade is a biggie.
 
 I want to explore which games have resonated most with me over the past ten years or so. In that, I hope I can also see some blind spots that I can look to rectify during the 20s. I am well aware that I am biased as a player and as a human. I might find that I have played a disappointingly low number of games made by or with marginalised people, or by people outside of my Anglosphere cultural environment.
@@ -40,15 +38,21 @@ Let’s see what I’ve played.
 
 (In chronological order.)
 
-## *Rock Band 3* (Harmonix, 2010)
+------
 
-![img](https://psmedia.playstation.com/is/image/psmedia/RockBand3_sc002?$MediaCarousel_Original$)
+
+
+## *Rock Band 3* (Harmonix, 2010)
 
 The rhythm game genre never went away, but it certainly died a death in the 10s. The *Guitar Hero* and, later, *Rock Band* series exploded the rhythm game genre into almost every living room. Countless households were filled with the *tap tap tap* of plastic drum sets and the *click click click* of the strum bar. But the controllers needed for these games were bulky, loud and expensive, which perhaps contributed to the genre’s dip in popularity.
 
 Nonetheless, these games bring back fond memories. Although I cut my teeth on *Guitar Hero III* (Neversoft, 2007), it was the *Rock Band* series that really swept me up, and in particular the third instalment. People say that these games aren’t useful for learning instruments, and that’s mostly true. But as a drummer myself, endless hours on the plastic set helped develop my skills on top of my lessons. The year I was really into *Rock Band 3* was probably the year my drumming has improved the most dramatically.
 
 *Rock Band 3* provided the perfect mixture of plenty of room for skill development, but forgiving enough that you could just feel like a rockstar whenever you picked the game up. For absolutely nailing that feeling, *Rock Band 3* has earned its spot as one of my games of the decade.
+
+------
+
+
 
 ## *Dark Souls* (FromSoftware, 2011)
 
@@ -58,6 +62,10 @@ I heard about it a year or two after it was released—certainly after its expan
 
 Eric Kain writing for *Forbes* says that the game’s story has an “archaeological” quality to it (2012), and that’s a description that’s stuck with me. And it’s the way that world ties in so elegantly with the mechanics. I’ll leave it there before I go on for too long. Suffice it to say, I’m not done figuring this game out yet.
 
+------
+
+
+
 ## *Old School RuneScape* (Jagex, 2013)
 
 The most popular update Jagex ever made to RuneScape was, it seems, to remove over six years of updates. Despite the idea of a ‘2007-Scape’ being enormously popular, it is still a bold move for a company to make, to release a competitor to your own game that is simply an older version of the 'same' game. Not only did they risk cannibalising their own userbase—which could, in turn, lead to a loss of the critical mass that an MMORPG needs for both games—but it also seems to undermine the current game, known as *RuneScape 3* (Jagex, 2013), a bit.
@@ -65,6 +73,10 @@ The most popular update Jagex ever made to RuneScape was, it seems, to remove ov
 Nevertheless, it paid off. *Old School* gave a powerful nostalgia hit to a generation of players, like me, whose school days were dominated by the game. But it became more than that. Assuming that *Old School* would be a quick trip down memory lane and then die out, Jagex only assigned it a skeleton team to keep the lights on. Instead it took off in its own right. Now more popular than the ‘main’ game, *Old School* is unrecognisable from 2007-era *RuneScape*, current *RuneScape 3* and the *Old School* of 2013.
 
 Trying out interesting new models of design, such as requiring the addition of any new content or any change (that isn’t a bugfix) to be voted on with 75% approval by the playerbase, *Old School* has redefined the MMORPG genre without simply copying *World of Warcraft*. Its radical adherence to a specific 2007-era aesthetic and community-based ethic stands *Old School* apart. It’s helped it become much more than a quick nostalgia hit, and paved the way for other hugely popular ‘old school’ experiences, such as *World of Warcraft Classic* (Blizzard Entertainment, 2019).
+
+------
+
+
 
 ## *Kenshi* (Lo-Fi Games, 2013)
 
@@ -74,6 +86,10 @@ The 2013 date is a little misleading. *Kenshi* was one of those many games in ea
 
 *Kenshi* refuses to adhere to established genres or conventions, blending elements of real-time strategy, city-builder, survival, roleplaying game, and open world into a bamboozling, gigantic mess. And for that, it’s brilliant. For all its flaws, I’ve simply never played a game like it.
 
+------
+
+
+
 ## *Cities: Skylines* (Colossal Order, 2015)
 
 I’ll never forget the day I spent eight straight hours rebuilding from scratch my city’s railways. I wanted to make more efficient rail transport routes around the city as well as splitting passenger rail from freight rail, and intracity rail from intercity rail. It turned out to be a bigger task than I had anticipated, but I barely noticed the hours go by as I tuned each junction and corner to my liking.
@@ -81,6 +97,10 @@ I’ll never forget the day I spent eight straight hours rebuilding from scratch
 *Cities: Skylines* is easily the pinnacle of the city-builder, citysim genre, having dethroned *Sim City*. It has its issues, for sure. The lack of mixed-use zoning and the overreliance on car-based travel are disappointing in particular. But, working around that—and with the help of a few (hundred) mods—*Cities* offers an unparalleled canvas for painting a city. 
 
 Moments of intense concentration, placing things *just* right, are interspersed with blissful periods of sitting back and just watching the city work. Immensely satisfying, gratifyingly creative and endlessly mesmerising, *Cities* has spent half the decade as one of my most successful tools for relaxation.
+
+------
+
+
 
 ## *Dark Souls III* (FromSoftware, 2016)
 
@@ -90,19 +110,29 @@ The game’s boss fights are incredibly well made, too. While the usual onslaugh
 
 *Dark Souls III* doesn’t quite capture the magic of the first game, but it does take everything great about *Dark Souls* and *Dark Souls II* (FromSoftware, 2014) and turn it into the most polished experience of the three while retaining the enigmatic, immersive worldbuilding.
 
+------
+
+
+
 ## *Hellblade: Senua’s Sacrifice* (Ninja Theory, 2017)
 
 There are many valid criticisms of the way *Senua’s Sacrifice* handles mental health, but at least it tries wholeheartedly. Putting the titular character’s psychosis front and centre of both the game’s narrative and gameplay, *Senua’s Sacrifice* manages to make an experience that is both intensely personal and epic in scale, fighting gods and mythical creatures.
 
 Perhaps the most notable element of the game are the voices in Senua’s head—the ‘Furies’—which accompany the player throughout their journey. These are extraordinarily well done. They make for an experience so intense that I had to take regular breaks every half hour or so. Few games have affected me like *Senua’s Sacrifice*. It’s an utterly beautiful game that will stick in my mind for many years to come.
 
-## *The Legend of Zelda: Breath of the Wild* (Nintendo EPD, 2017)
+------
 
-![Breath of the Wild](content\post\games-of-the-decade\images\Breath of the Wild.jpg)
+
+
+## *The Legend of Zelda: Breath of the Wild* (Nintendo EPD, 2017)
 
 The story isn’t the best that *The Legend of Zelda* has ever produced. The enemy variety is also a little lacking. And many would have liked to see more expansive dungeons. But *Breath of the Wild* has the most *alive* gameworld of any *Zelda* game. And certainly the most freedom.
 
 Exploring Hyrule is just a joy in its own right. There’s always something new and interesting to head towards on the horizon, and a hundred little detours to take along the way. And it’s full of beautiful little sequences, like the ‘From the Ground Up’ sidequest. And it feels like one of the few openworld games that lets you explore a genuine wilderness. Above all, *Breath of the Wild* has heart. 
+
+------
+
+
 
 ## *Untitled Goose Game* (House House, 2019)
 
@@ -112,17 +142,7 @@ Simply put, no game has ever made me laugh as much as *Goose Game*. A relatively
 
 Perfect for the premise, the gameplay essentially functions as a stealth game with no consequences. Sneaking around and messing with things and people, but without the violence and without having to restart a level if you get caught. When your scheme falls flat, you simply honk cathartically, run away a little and try again. *Goose Game* is simply a game of utter joy.
 
-
-
-## Honourable  Mentions
-
-###### *Subnautica*
-
-###### *Thomas Was Alone*
-
-###### *What Remains of Edith Finch*
-
-###### *League of Legends*
+------
 
 
 
