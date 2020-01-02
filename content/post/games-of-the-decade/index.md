@@ -10,7 +10,7 @@ categories: []
 date: 2020-01-01T12:48:14+01:00
 lastmod: 2020-01-01T12:48:14+01:00
 featured: false
-draft: true
+draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -44,9 +44,9 @@ Let’s see what I’ve played.
 
 ### Harmonix, 2010
 
-The rhythm game genre never went away, but it certainly died a death in the 10s. *Guitar Hero* and, later, *Rock Band* exploded the rhythm game genre into almost every living room. Countless households were filled with the *tap tap tap* of plastic drum sets and the *click click click* of the strum bar. The controllers needed for these games were bulky, loud and expensive, which perhaps contributed to the genre’s dip in popularity.
+The rhythm game genre never went away, but it certainly died a death in the 10s. The *Guitar Hero* and, later, *Rock Band* series exploded the rhythm game genre into almost every living room. Countless households were filled with the *tap tap tap* of plastic drum sets and the *click click click* of the strum bar. The controllers needed for these games were bulky, loud and expensive, which perhaps contributed to the genre’s dip in popularity.
 
-Nonetheless, these games bring back fond memories. Although I cut my teeth on *Guitar Hero 3*, it was the *Rock Band* series that really swept me up, and in particular the third instalment. People say that these games aren’t useful for learning instruments, and that’s mostly true. But as a drummer myself, endless hours on the plastic set helped develop my skills on top of my lessons. The year I was really into *Rock Band 3* was probably the year my drumming has improved the most dramatically. 
+Nonetheless, these games bring back fond memories. Although I cut my teeth on *Guitar Hero III* (Neversoft, 2007), it was the *Rock Band* series that really swept me up, and in particular the third instalment. People say that these games aren’t useful for learning instruments, and that’s mostly true. But as a drummer myself, endless hours on the plastic set helped develop my skills on top of my lessons. The year I was really into *Rock Band 3* was probably the year my drumming has improved the most dramatically.
 
 *Rock Band 3* provided the perfect mixture of plenty of room for skill development, but forgiving enough that you could just feel like a rockstar whenever you picked the game up. For absolutely nailing that feeling, *Rock Band 3* has earned its spot as one of my games of the decade.
 
@@ -64,7 +64,7 @@ Eric Kain writing for *Forbes* says that the game’s story has an “archaeolog
 
 ### Jagex, 2013
 
-The most popular update Jagex ever made to RuneScape was, it seems, to remove over six years of updates. Despite the idea of a ‘2007-Scape’ being enormously popular, it is still a bold move for a company to make, to release a competitor to your own game that is simply an older version of the 'same' game. Not only did they risk cannibalising their own userbase—which could, in turn, lead to a loss of the critical mass that an MMORPG needs for both games—but it also seems to undermine the current game, known as *RuneScape 3*, a bit.
+The most popular update Jagex ever made to RuneScape was, it seems, to remove over six years of updates. Despite the idea of a ‘2007-Scape’ being enormously popular, it is still a bold move for a company to make, to release a competitor to your own game that is simply an older version of the 'same' game. Not only did they risk cannibalising their own userbase—which could, in turn, lead to a loss of the critical mass that an MMORPG needs for both games—but it also seems to undermine the current game, known as *RuneScape 3* (Jagex, 2013), a bit.
 
 Nevertheless, it paid off. *Old School* gave a powerful nostalgia hit to a generation of players, like me, whose school days were dominated by the game. But it became more than that. Assuming that *Old School* would be a quick trip down memory lane and then die out, Jagex only assigned it a skeleton team to keep the lights on. Instead it took off in its own right. Now more popular than the ‘main’ game, *Old School* is unrecognisable from 2007-era *RuneScape*, current *RuneScape 3* and the *Old School* of 2013.
 
@@ -84,15 +84,13 @@ I’ll never forget the day I spent eight straight hours rebuilding from scratch
 
 *Cities: Skylines* is easily the pinnacle of the citybuilder, citysim genre, having dethroned *Sim City*. It has its issues, for sure. The lack of mixed-use zoning and the overreliance on car-based travel are disappointing in particular. But, working around that—and with the help of a few (hundred) mods—*Cities* offers an unparalleled canvas for painting a city. 
 
-Moments of intense concentration, placing things *just* right, are interspersed with blissful periods of sitting back and just watching the city work. Immensely satisfying
+Moments of intense concentration, placing things *just* right, are interspersed with blissful periods of sitting back and just watching the city work. Immensely satisfying, gratifyingly creative and endlessly mesmerising, *Cities* has spent half the decade as one of my most successful tools for relaxation.
 
 ## *Hellblade: Senua’s Sacrifice*
 
 ### Ninja Theory, 2017
 
 Lorem ipsum.
-
-
 
 ## *The Legend of Zelda: Breath of the Wild*
 
@@ -106,15 +104,23 @@ Lorem ipsum.
 
 Simply put, no game has ever made me laugh as much as *Goose Game*. A relatively short game, it’s one with a unique combination of playful freedom, humour and surprisingly solid gameplay.
 
+“It’s a lovely morning in the village, and you are a horrible goose.” The single most engaging strapline for a game ever? It immediately sold the game to me, certainly. But if *Goose Game* was simply a very funny premise and nothing more, it would’ve had its brief moment and then been forgotten. Instead, this small, short game
+
+[recently surpassed a million sales, according to the game’s publisher,]: https://twitter.com/cabel/status/1211754892605308928
+
+and honked its way into our hearts.
+
+Perfect for the premise, the gameplay essentially functions as a stealth game with no consequences. Sneaking around and messing with things and people, but without the violence and without having to restart a level if you get caught. When your scheme falls flat, you simply honk cathartically, run away a little and try again. *Goose Game* is simply a game of utter joy.
+
 ## Honourable  Mentions
 
 ###### *Subnautica*
 
-*Thomas Was Alone*
+###### *Thomas Was Alone*
 
-*What Remains of Edith Finch*
+###### *What Remains of Edith Finch*
 
-*League of Legends*
+###### *League of Legends*
 
 
 
