@@ -50,6 +50,8 @@ Nonetheless, these games bring back fond memories. Although I cut my teeth on *G
 
 *Rock Band 3* provided the perfect mixture of plenty of room for skill development, but forgiving enough that you could just feel like a rockstar whenever you picked the game up. For absolutely nailing that feeling, *Rock Band 3* has earned its spot as one of my games of the decade.
 
+
+
 ## *Dark Souls*
 
 ### FromSoftware, 2011
@@ -59,6 +61,8 @@ Anyone who knows me will be entirely unsurprised by this choice. *Dark Souls* ha
 I heard about it a year or two after it was released—certainly after its expansion, *Artorias of the Abyss* (FromSoftware, 2012), had come out—and thought it sounded like a cool, if generic, roleplaying game. Instead, its world resonated with me like no other had before. The reason why I write about *Dark Souls* so often is because I never feel like I have said all I need to say on it. I never feel like I have gotten to the essence of why the game resonates with me so strongly.
 
 Eric Kain writing for *Forbes* says that the game’s story has an “archaeological” quality to it (2012), and that’s a description that’s stuck with me. And it’s the way that world ties in so elegantly with the mechanics. I’ll leave it there before I go on for too long. Suffice it to say, I’m not done figuring this game out yet.
+
+
 
 ## *Old School RuneScape*
 
@@ -70,11 +74,15 @@ Nevertheless, it paid off. *Old School* gave a powerful nostalgia hit to a gener
 
 Trying out interesting new models of design, such as requiring the addition of any new content or any change (that isn’t a bugfix) to be voted on with 75% approval by the playerbase, *Old School* has redefined the MMORPG genre without simply copying *World of Warcraft*. Its radical adherence to a specific 2007-era aesthetic and community-based ethic stands *Old School* apart. It’s helped it become much more than a quick nostalgia hit, and paved the way for other hugely popular ‘old school’ experiences, such as *World of Warcraft Classic* (Blizzard Entertainment, 2019).
 
+
+
 ## *Kenshi*
 
 ### Lo-Fi Games, 2013
 
 Lorem ipsum.
+
+
 
 ## *Cities: Skylines*
 
@@ -86,17 +94,23 @@ I’ll never forget the day I spent eight straight hours rebuilding from scratch
 
 Moments of intense concentration, placing things *just* right, are interspersed with blissful periods of sitting back and just watching the city work. Immensely satisfying, gratifyingly creative and endlessly mesmerising, *Cities* has spent half the decade as one of my most successful tools for relaxation.
 
+
+
 ## *Hellblade: Senua’s Sacrifice*
 
 ### Ninja Theory, 2017
 
 Lorem ipsum.
 
+
+
 ## *The Legend of Zelda: Breath of the Wild*
 
 ### Nintendo EPD, 2017
 
 Lorem ipsum.
+
+
 
 ## *Untitled Goose Game*
 
@@ -106,11 +120,13 @@ Simply put, no game has ever made me laugh as much as *Goose Game*. A relatively
 
 “It’s a lovely morning in the village, and you are a horrible goose.” The single most engaging strapline for a game ever? It immediately sold the game to me, certainly. But if *Goose Game* was simply a very funny premise and nothing more, it would’ve had its brief moment and then been forgotten. Instead, this small, short game
 
-[recently surpassed a million sales, according to the game’s publisher,]: https://twitter.com/cabel/status/1211754892605308928
+[recently surpassed a million sales, according to the game’s publisher,]: https://twitter.com/cabel/status/1211754892605308928	"recently surpassed a million sales, according to the game’s publisher,"
 
 and honked its way into our hearts.
 
 Perfect for the premise, the gameplay essentially functions as a stealth game with no consequences. Sneaking around and messing with things and people, but without the violence and without having to restart a level if you get caught. When your scheme falls flat, you simply honk cathartically, run away a little and try again. *Goose Game* is simply a game of utter joy.
+
+
 
 ## Honourable  Mentions
 
