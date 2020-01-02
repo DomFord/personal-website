@@ -40,9 +40,7 @@ Let’s see what I’ve played.
 
 (In chronological order.)
 
-## *Rock Band 3*
-
-### Harmonix, 2010
+## *Rock Band 3* (Harmonix, 2010)
 
 ![img](https://psmedia.playstation.com/is/image/psmedia/RockBand3_sc002?$MediaCarousel_Original$)
 
@@ -52,11 +50,7 @@ Nonetheless, these games bring back fond memories. Although I cut my teeth on *G
 
 *Rock Band 3* provided the perfect mixture of plenty of room for skill development, but forgiving enough that you could just feel like a rockstar whenever you picked the game up. For absolutely nailing that feeling, *Rock Band 3* has earned its spot as one of my games of the decade.
 
-
-
-## *Dark Souls*
-
-### FromSoftware, 2011
+## *Dark Souls* (FromSoftware, 2011)
 
 Anyone who knows me will be entirely unsurprised by this choice. *Dark Souls* has featured as a key game in my bachelor’s thesis and both my master’s theses, and is highly likely to feature in my PhD thesis. For me, it stands as the greatest game ever made.
 
@@ -64,11 +58,7 @@ I heard about it a year or two after it was released—certainly after its expan
 
 Eric Kain writing for *Forbes* says that the game’s story has an “archaeological” quality to it (2012), and that’s a description that’s stuck with me. And it’s the way that world ties in so elegantly with the mechanics. I’ll leave it there before I go on for too long. Suffice it to say, I’m not done figuring this game out yet.
 
-
-
-## *Old School RuneScape*
-
-### Jagex, 2013
+## *Old School RuneScape* (Jagex, 2013)
 
 The most popular update Jagex ever made to RuneScape was, it seems, to remove over six years of updates. Despite the idea of a ‘2007-Scape’ being enormously popular, it is still a bold move for a company to make, to release a competitor to your own game that is simply an older version of the 'same' game. Not only did they risk cannibalising their own userbase—which could, in turn, lead to a loss of the critical mass that an MMORPG needs for both games—but it also seems to undermine the current game, known as *RuneScape 3* (Jagex, 2013), a bit.
 
@@ -76,11 +66,7 @@ Nevertheless, it paid off. *Old School* gave a powerful nostalgia hit to a gener
 
 Trying out interesting new models of design, such as requiring the addition of any new content or any change (that isn’t a bugfix) to be voted on with 75% approval by the playerbase, *Old School* has redefined the MMORPG genre without simply copying *World of Warcraft*. Its radical adherence to a specific 2007-era aesthetic and community-based ethic stands *Old School* apart. It’s helped it become much more than a quick nostalgia hit, and paved the way for other hugely popular ‘old school’ experiences, such as *World of Warcraft Classic* (Blizzard Entertainment, 2019).
 
-
-
-## *Kenshi*
-
-### Lo-Fi Games, 2013
+## *Kenshi* (Lo-Fi Games, 2013)
 
 The 2013 date is a little misleading. *Kenshi* was one of those many games in early access for what felt like forever. And I’m sure it felt like that for Chris Hunt, who began development of the game solo in the mid-to-late 2000s. In 2013, Hunt got the money together to hire a small team and the game went into Steam’s highly variable early access programme, which the game didn’t leave again until December 2018.
 
@@ -88,11 +74,7 @@ The 2013 date is a little misleading. *Kenshi* was one of those many games in ea
 
 *Kenshi* refuses to adhere to established genres or conventions, blending elements of real-time strategy, city-builder, survival, roleplaying game, and open world into a bamboozling, gigantic mess. And for that, it’s brilliant. For all its flaws, I’ve simply never played a game like it.
 
-
-
-## *Cities: Skylines*
-
-### Colossal Order, 2015
+## *Cities: Skylines* (Colossal Order, 2015)
 
 I’ll never forget the day I spent eight straight hours rebuilding from scratch my city’s railways. I wanted to make more efficient rail transport routes around the city as well as splitting passenger rail from freight rail, and intracity rail from intercity rail. It turned out to be a bigger task than I had anticipated, but I barely noticed the hours go by as I tuned each junction and corner to my liking.
 
@@ -100,11 +82,7 @@ I’ll never forget the day I spent eight straight hours rebuilding from scratch
 
 Moments of intense concentration, placing things *just* right, are interspersed with blissful periods of sitting back and just watching the city work. Immensely satisfying, gratifyingly creative and endlessly mesmerising, *Cities* has spent half the decade as one of my most successful tools for relaxation.
 
-
-
-## *Dark Souls III*
-
-### FromSoftware, 2016
+## *Dark Souls III* (FromSoftware, 2016)
 
 A magnificent sendoff for the *Dark Souls* series. While not quite as tight and resonant as the first, *Dark Souls III* makes up for it in even tighter combat mechanics—the best combat system of any game of this kind, ever—and stunning environments. From Irithyll of the Boreal Valley to The Ringed City, the third instalment of the series has some of the most memorable locations.
 
@@ -112,33 +90,21 @@ The game’s boss fights are incredibly well made, too. While the usual onslaugh
 
 *Dark Souls III* doesn’t quite capture the magic of the first game, but it does take everything great about *Dark Souls* and *Dark Souls II* (FromSoftware, 2014) and turn it into the most polished experience of the three while retaining the enigmatic, immersive worldbuilding.
 
-
-
-## *Hellblade: Senua’s Sacrifice*
-
-### Ninja Theory, 2017
+## *Hellblade: Senua’s Sacrifice* (Ninja Theory, 2017)
 
 There are many valid criticisms of the way *Senua’s Sacrifice* handles mental health, but at least it tries wholeheartedly. Putting the titular character’s psychosis front and centre of both the game’s narrative and gameplay, *Senua’s Sacrifice* manages to make an experience that is both intensely personal and epic in scale, fighting gods and mythical creatures.
 
 Perhaps the most notable element of the game are the voices in Senua’s head—the ‘Furies’—which accompany the player throughout their journey. These are extraordinarily well done. They make for an experience so intense that I had to take regular breaks every half hour or so. Few games have affected me like *Senua’s Sacrifice*. It’s an utterly beautiful game that will stick in my mind for many years to come.
 
+## *The Legend of Zelda: Breath of the Wild* (Nintendo EPD, 2017)
 
-
-## *The Legend of Zelda: Breath of the Wild*
-
-### Nintendo EPD, 2017
-
-![Breath of the Wild](\\fs4.itu.local\redirection\dofo\Documents\GitHub\personal-website\content\post\games-of-the-decade\images\Breath of the Wild.jpg)
+![Breath of the Wild](content\post\games-of-the-decade\images\Breath of the Wild.jpg)
 
 The story isn’t the best that *The Legend of Zelda* has ever produced. The enemy variety is also a little lacking. And many would have liked to see more expansive dungeons. But *Breath of the Wild* has the most *alive* gameworld of any *Zelda* game. And certainly the most freedom.
 
 Exploring Hyrule is just a joy in its own right. There’s always something new and interesting to head towards on the horizon, and a hundred little detours to take along the way. And it’s full of beautiful little sequences, like the ‘From the Ground Up’ sidequest. And it feels like one of the few openworld games that lets you explore a genuine wilderness. Above all, *Breath of the Wild* has heart. 
 
-
-
-## *Untitled Goose Game*
-
-### House House, 2019
+## *Untitled Goose Game* (House House, 2019)
 
 Simply put, no game has ever made me laugh as much as *Goose Game*. A relatively short game, it’s one with a unique combination of playful freedom, humour and surprisingly solid gameplay.
 
