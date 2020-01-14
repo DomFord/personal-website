@@ -33,7 +33,7 @@ education:
   courses:
   - course: PhD in Game Studies
     institution: IT University of Copenhagen
-    year: 2022
+    year: 2022 (expected)
   - course: MSc in Games
     institution: IT University of Copenhagen
     year: 2019
