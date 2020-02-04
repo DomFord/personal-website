@@ -4,9 +4,6 @@
 # This file is formatted using TOML syntax - learn more at https://learnxinyminutes.com/docs/toml/
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
-#Google Analytics test
-googleAnalytics = "UA-156203091-1"
-
 # Title of your site
 title = "Dom Ford"
 
@@ -14,9 +11,12 @@ title = "Dom Ford"
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = "https://domford.me/"
 
+# Google Analytics test
+googleAnalytics = "UA-156203091-1"
+
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = ""
+copyright = "{year}"
 
 ############################
 ## Advanced options below ##
