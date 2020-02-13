@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "My Games of the Decade"
+title: "My Ten Games of the Decade"
 subtitle: ""
 summary: ""
 authors: [Dom Ford]
