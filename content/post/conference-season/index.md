@@ -36,7 +36,7 @@ Plus, these two conferences are both not only in cities I've never been to, but 
 
 Assuming Coronavirus doesn't ruin everything. Fingers crossed.
 
-# History of Games 2020, Krákow, Poland (27–29 May)
+# History of Games 2020, Kraków, Poland (27–29 May)
 
 ## That Old School Feeling: Processes of Mythmaking in *Old School RuneScape*
 
