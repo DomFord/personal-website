@@ -18,11 +18,11 @@ day_night = true
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in font sets in `themes/academic/data/fonts/`
 #   Browse user installed font sets in `data/fonts/`
-font = ""
+font = "rose"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "L"
+font_size = "M"
 
 ############################
 ## Basic Info
@@ -41,7 +41,7 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = ""
+org_name = "Dom Ford"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
@@ -137,7 +137,7 @@ date_format = "2 January 2006"
 time_format = "15:04"
 
 # Address format (choose from the [address_formats] list below or add you own to the list).
-address_format = "en-us"
+address_format = "de"
 
 ############################
 ## Advanced
@@ -202,7 +202,7 @@ plugins_js  = []
   #   0: Disabled
   #   1: Disqus (https://disqus.com)
   #   2: Commento (https://commento.io)
-  engine = 0
+  engine = 2
 
   # Which page types are commentable?
   commentable = {page = true, post = true, docs = true, project = true, publication = true, talk = true}
@@ -256,5 +256,4 @@ plugins_js  = []
 ## Marketing
 ############################
 [marketing]
-  google_analytics = ""
-  google_tag_manager = ""
+  google_analytics = "UA-156203091-1"

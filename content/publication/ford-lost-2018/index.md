@@ -9,4 +9,3 @@
 # publication: "DiGRA Nordic"
 # url_pdf: "http://rgdoi.net/10.13140/RG.2.2.32490.57286"
 ---
-
