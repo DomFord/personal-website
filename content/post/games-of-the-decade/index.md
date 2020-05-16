@@ -3,7 +3,7 @@
 
 title: "My Ten Games of the Decade"
 subtitle: ""
-summary: ""
+summary: "Looking back on a decade of big games and big life changes"
 authors: [Dom Ford]
 tags: [games of the decade]
 categories: [Lists]
