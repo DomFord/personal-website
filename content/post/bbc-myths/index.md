@@ -52,6 +52,8 @@ It doesn’t take an economist to see that this approach to government spending 
 
 {{< youtube VXIJN82HsgU >}}
 
+
+
 Indeed, it is not even framed as a ‘argument’ as such. In fully mythologised fashion, the logic of the metaphor is taken as an essential truth. *This is just how government spending **works***. “And *like anyone who’s facing debts*,” says David, “the government has three options.” These three options, for the BBC, are to cut spending, raise taxes, or to borrow more.
 
 Not only are other options, such as monetary policy, but the framing of each choice is also misleading. Raising taxes, for instance, is presented as simply unconscionable. The explanation for spending cuts, in following the household myth, does not take into account that reducing spending at a governmental level *also reduces income*. Borrowing more is waved away with the tired argument that it “leaves our grandchildren to pick up the tab”, also not acknowledging that alternatives to borrowing—especially cutting spending—could easily be far, far more damaging to the economy, leaving ‘our grandchildren’ with a higher ‘tab’ and a more painful economy overall. This follows the logic of the household myth: taking on more loans (beyond an initial mortgage) is often presented as a very last resort, after attempting to cut outgoings and looking for more income.
