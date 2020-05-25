@@ -40,7 +40,7 @@ In a *Novara Media* podcast, a particularly egregious example of BBC coverage wa
 
 ## Economic myths from the late 2000s
 
-This is the headline of the report I want to take a closer look at. ‘[Coronavirus: How much will it cost the UK?](https://www.bbc.com/news/business-52663523)’, by business reporter Ben King. At the top of the article is [an explainer video](https://www.bbc.com/news/av/embed/p08dvbf6/52663523) presented by economics correspondent Dharshini David.
+The headline of the report I want to take a closer look at is ‘[Coronavirus: How much will it cost the UK?](https://www.bbc.com/news/business-52663523)’, by business reporter Ben King. At the top of the article is [an explainer video](https://www.bbc.com/news/av/embed/p08dvbf6/52663523) presented by economics correspondent Dharshini David.
 
 {{< figure library="true" src="bbc myth 1.png" title="" lightbox="true" >}}
 
